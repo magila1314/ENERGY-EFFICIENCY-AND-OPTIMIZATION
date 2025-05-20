@@ -1,10 +1,17 @@
 COLLEGE CODE:1106
+
 COLLEGE NAME:IIET
+
 DEPARTMENT:AI&DS
+
 STUDENT NM-ID: cddef3a5e8bece98fa649dc9e31d4d73
+
 ROLL NO:110623243011
+
 DATE:14-05-2025
+
 TECHNOLOGY-PROJECT NAME: AI POWERED ENERGY EFFICIENCY AND OPTIMIZATION
+
 SUBMITTED BY
 MAGILA.A
 
@@ -55,5 +62,7 @@ PHASE 4 IMPORTANT POINTS
 
 1.Real time monitoring system enhancement
 2.smart device integration performance
+
 3.data security and privacy performance
+
 4.performance testing and metrics collection
