@@ -52,9 +52,8 @@ Outcome:The Documentation Ensures The Project Can Be Maintained, Improved, And S
 7. Phase 3 Outcomes: A working AI model, functional dashboard, optional IoT support, secure data handling, and feedback mechanisms.
 
 PHASE 4 IMPORTANT POINTS
+
 1.Real time monitoring system enhancement
-
 2.smart device integration performance
-
 3.data security and privacy performance
 4.performance testing and metrics collection
